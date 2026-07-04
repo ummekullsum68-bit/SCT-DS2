@@ -41,4 +41,4 @@ Titanic Dataset from Kaggle
 
 ## Author
 
-Yashwanth.J
+Umme Kullsum S
